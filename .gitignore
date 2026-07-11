@@ -1,0 +1,11 @@
+# Root-level gitignore
+# Each subproject has its own — this catches anything missed
+
+node_modules/
+
+*.log
+.DS_Store
+Thumbs.db
+.vercel
+.idea/
+.vscode/
